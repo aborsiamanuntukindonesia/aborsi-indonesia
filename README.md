@@ -33,7 +33,7 @@ Pasal 194 UU Kesehatan tersebut dapat menjerat pihak dokter dan/atau tenaga kese
 Selain itu, sanksi pidana bagi pelaku aborsi ilegal juga diatur dalam Kitab Undang-Undang Hukum Pidana ("KUHP"). Ketentuannya antara lain sebagai berikut:
  
 
-_Pasal 299_
+**Pasal 299**
 
 > 1) Barang siapa dengan sengaja mengobati seorang wanita atau menyuruh supaya diobati, dengan diberitahukan atau ditimbulkan harapan bahwa karena pengobatan itu hamilnya dapat digugurkan, diancam dengan pidana penjara paling lama empat tahun atau pidana denda paling banyak empat puluh lima ribu rupiah.
 >

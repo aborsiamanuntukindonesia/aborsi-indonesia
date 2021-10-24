@@ -2,6 +2,54 @@
 
 Ini adalah sebuah panduan untuk tindakan aborsi aman di Indonesia bagi perempuan yang mengalami kehamilan tidak diinginkan dan ingin melakukan pengguguran kandungan. Informasi dalam panduan ini akan senantiasa diperbarui sesuai dengan rekomendasi dan protokol terbaru dari Badan Kesehatan Dunia dan berbagai penelitian yang telah dipublikasikan secara internasional.
 
+what does this cover: information on obtaining medical abortion in indonesia for cases where going through a medical professional is not possible. cases where that may be possible are: (conviction of rape, medical incompability with life of the  foetus, danger to the mother, etc) in such  cases, it is recommended to go through hospital or med profd
+
+what does this not cover: surgical abortion, etc.
+
+Why: reasons people might get an abortion
+
+Depending upon the context, unmarried individuals, adolescents,
+those living in extreme poverty, individuals from ethnic minorities,
+refugees and other displaced persons, people with disabilities, and
+those facing violence in the home may be vulnerable to inequitable
+access to safe abortion services. Adolescents, in particular, are less
+likely than adults to be able to obtain legal and safe abortions
+to terminate their pregnancies. Some of the barriers adolescents
+face include requirements for third party authorizations (including
+parental consent) and financial constraints (inability to pay the
+required fees) (6,12). Additional considerations related to the care
+of adolescents can be found in section 4 (General implementation
+considerations), and in the WHO adolescent job aid (13).
+- rape victims
+- financial considerations
+- unmarried windividuals facing social and physical repercussions for pregnancy
+- age considerations
+
+What: diff between med and surg abortion, 
+
+Use of pharmacological drugs to terminate
+pregnancy. Sometimes the terms “non-surgical abortion” or “medication abortion” are also used. 
+
+use of transcervical procedures for terminating
+pregnancy, including vacuum aspiration and dilatation and evacuation (D&E)
+
+
+Who: who  should get them, recommendations  on getting checked, safe clinics
+Where: where to find it, mamamiso etc
+
+How  & when: step by step process, timing
+process, pain management, what to expect, getting checked after and during, etc
+
+
+Informasi yang terkandung di dokumen ini dikumpulkan dalam prinsip 'Harm Reduction' dengan tujuan untuk memastikan perempuan yang membutuhkan akses aborsi aman dapat memiliki informasi yang akurat terkait aborsi aman. Walaupun begitu, penting bahwa perempuan yang membuat keputusan untuk melakukan tindak aborsi mengetau resikonya, baik dari segi kesehatan maupun sisi hukum. 
+
+## Resiko Tindakan Aborsi Pada Ibu dan Janin
+
+Health-care providers should use caution and clinical judgement
+to decide the maximum number of doses of misoprostol in pregnant individuals with prior uterine incision. Uterine rupture is a
+rare complication; clinical judgement and health system preparedness for emergency management of uterine rupture must be
+considered with advanced gestational age.
+
 ## Pengguguran Kandungan yang Diperbolehkan Sesuai "UU Kesehatan"
  
 Pengecualian pada larangan aborsi yang tercantum dalam Pasal 75-76 UU No. 36 Tahun 2009 adalah sebagai berikut:
@@ -69,3 +117,6 @@ Pada praktiknya, bila ada dokter yang melakukan aborsi, maka masyarakat dapat me
 
 
 https://www.hukumonline.com/klinik/detail/ulasan/cl840/penerapan-hukum-pidana-dalam-aborsi-ilegal
+https://www.who.int/reproductivehealth/publications/medical-management-abortion/en/
+askinna
+mamamiso

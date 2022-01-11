@@ -2,7 +2,7 @@
 
 Ini adalah sebuah panduan untuk tindakan aborsi aman di Indonesia bagi perempuan yang mengalami kehamilan tidak diinginkan dan ingin melakukan pengguguran kandungan. Informasi dalam panduan ini akan senantiasa diperbarui sesuai dengan rekomendasi dan protokol terbaru dari Badan Kesehatan Dunia dan berbagai penelitian yang telah dipublikasikan secara internasional.
 
-what does this cover: information on obtaining medical abortion in indonesia for cases where going through a medical professional is not possible. cases where that may be possible are: (conviction of rape, medical incompability with life of the  foetus, danger to the mother, etc) in such  cases, it is recommended to go through hospital or med profd
+Panduan ini melingkupi informasi mengenai aborsi medis (non-invasif, tanpa pembedahan/kuret) untuk kasus dimana pengguguran kandungan tidak dapat dilakukan melalui fasilikas kesehatan setempat. Untuk kasus dimana pengguguran kandungan dapat dilakukan melalui fasilitas kesehatan setempat (usia kandungan di bawah tiga bulan, adanya what does this cover: information on obtaining medical abortion in indonesia for cases where going through a medical professional is not possible. cases where that may be possible are: (conviction of rape, medical incompability with life of the  foetus, danger to the mother, etc) in such  cases, it is recommended to go through hospital or med profd
 
 what does this not cover: surgical abortion, etc.
 
